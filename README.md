@@ -1,16 +1,77 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**JulianGodenschweig/JulianGodenschweig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Julian Godenschweig
 
-Here are some ideas to get you started:
+**Self-taught Full-Stack Developer · Founder of [Synapse Society](https://synapse-coop.vercel.app) 🇳🇦**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6E8CA8&center=true&vCenter=true&width=620&lines=Self-taught+Full-Stack+Developer;I+ship+real+platforms+to+production;Human-led%2C+AI-amplified" alt="typing" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B0B0E?style=for-the-badge&logo=vercel&logoColor=white)](https://synapse-coop.vercel.app)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/264812582290)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:jmmgodenschweig@outlook.com)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+I'm a self-taught full-stack developer from Namibia and the founder of **Synapse Society** — a one-person studio that builds web platforms and automations that actually ship to production. Not demos. Real systems for real organisations.
+
+I work **human-led and AI-amplified**: I orchestrate Claude Code and a lean automation stack to design, build, and ship at a pace that usually takes a whole team — often from a terminal on my phone. 📱
+
+- 🔭 Currently building platforms for businesses, NPOs and NGOs
+- 🌱 Always leveling up — declarative, event-driven, flow-based systems
+- ⚡ Fun fact: I've shipped entire production sites over SSH, under a blanket
+
+## 🚀 Live Work
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[Healingwound.org](https://www.healingwound.org)** | Full platform rebuild for a GBV-survivor support org — donations, programmes, impact reporting | `Next.js` `Supabase` |
+| **[Dariva.co](https://www.dariva.co)** | Counselling & learning platform — bookings, LMS, Namibian payments (MTC MoMo, PayToday) | `Next.js` `Supabase` `Payments` |
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,nodejs,supabase,mongodb,postgres,docker,vercel,git,github&perline=8" />
+
+<br/><br/>
+
+`npm` · `npx` · `n8n` · `REST APIs` · `Playwright` · `Claude Code`
+
+</div>
+
+## 🎓 Certified
+
+**Anthropic** — Claude 101 · Claude Code in Action
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&bg_color=0B0B0E&title_color=6E8CA8&icon_color=6E8CA8&text_color=ECE6DA" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&bg_color=0B0B0E&title_color=6E8CA8&text_color=ECE6DA" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&hide_border=true&background=0B0B0E&stroke=6E8CA8&ring=6E8CA8&fire=6E8CA8&currStreakLabel=6E8CA8&sideLabels=ECE6DA&dates=ECE6DA&currStreakNum=ECE6DA&sideNums=ECE6DA" />
+
+</div>
+
+## 💬 Let's Build Something
+
+The boring work runs itself. You do the work that matters.
+
+🌐 **[synapse-coop.vercel.app](https://synapse-coop.vercel.app)** · 💬 WhatsApp **+264 81 258 2290** · ✉️ **jmmgodenschweig@outlook.com**
+
+<div align="center">
+
+<br/>
+
+*Built fast. Built to last. Shipped from Namibia → worldwide.*
+
+</div>
