@@ -73,4 +73,15 @@ The boring work runs itself. You do the work that matters.
 
 *Built fast. Built to last. Shipped from Namibia → worldwide.*
 
+## 🐍 The Contribution Snake Game
+
+<div align="center">
+
+<!-- Light theme version -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JulianGodenschweig/JulianGodenschweig/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JulianGodenschweig/JulianGodenschweig/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Appearance Snake Game" src="https://raw.githubusercontent.com/JulianGodenschweig/JulianGodenschweig/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
 </div>
